@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 4,
+      "name": "shravan",
+      "email": "r@gmail.com",
+      "phone": "987987987979"
+    },
+    {
+      "name": "Rahul Majukar",
+      "email": "Rahul@gmail.com",
+      "phone": "98765353437",
+      "id": 7
+    },
+    {
+      "name": "akash besant",
+      "phone": "98765432",
+      "email": "k@gmail.com",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Mani ",
+      "email": "del@gmail.com",
+      "phone": "8798798798"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
